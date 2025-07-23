@@ -1,7 +1,9 @@
-# 👩‍💻 Sneha 
+## 👋 Hi there!  
+## 👩‍💻 I'm Sneha  
+
 
 🎓 **B.Tech CSE (Specialization: Cyber Security & Forensics)**  
-📍 India | 💡 Passionate Learner | 🔐 Cybersecurity Enthusiast  
+📍 India | 💡 A passionate learner in cybersecurity and technology
 
 ---
 
@@ -64,7 +66,7 @@ A desktop-based secure ATM system with:
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-887913334/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehanandanewuser)
 
 
 ---
