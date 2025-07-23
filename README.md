@@ -9,7 +9,7 @@
 
 A curious and motivated computer science undergrad specializing in **Cyber Security & Forensics**, I'm passionate about understanding how secure systems work and how attackers think. I enjoy exploring tools, technologies, and techniques that contribute to a safer digital world.
 
-I recently interned at **InfoSec Dot** under the **SAMARTH Internship Program**, where I contributed to:
+I interned at **InfoSec Dot** during **June-July 2025**, where I contributed to:
 - ✍️ Blog writing
 - 📝 Tool guides
 - 📄 Research one-pagers
